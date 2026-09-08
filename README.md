@@ -320,15 +320,7 @@ Computer Science and Engineering - Artificial Intelligence and Machine Learning
 
 ---
 
-## 🧊 3D Contribution Visualization
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/santanu737/santanu737/main/profile-3d-contrib/profile-green-animate.svg" width="98%" />
-
-</div>
-
----
 
 ## 🌱 Current Focus
 
