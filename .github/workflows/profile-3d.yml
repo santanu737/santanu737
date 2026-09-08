@@ -27,4 +27,3 @@ jobs:
           git add -A .
           git diff --cached --quiet || git commit -m "Generate 3D contribution graph"
           git push
-          
