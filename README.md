@@ -19,6 +19,10 @@
 [![Email](https://img.shields.io/badge/Email-1F1512?style=for-the-badge&logo=gmail&logoColor=FFAB91&labelColor=1F1512)](https://mail.google.com/mail/?view=cm&fs=1&to=santanu7299@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1F1512?style=for-the-badge&logo=github&logoColor=FFAB91&labelColor=1F1512)](https://github.com/santanu737)
 
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=santanu737&color=1F1512&style=for-the-badge&labelColor=1F1512)
+
 </div>
 
 <br/>
