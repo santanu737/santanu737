@@ -291,17 +291,6 @@ Computer Science and Engineering - Artificial Intelligence and Machine Learning
 
 ---
 
-## 3D Contribution Visualization
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/santanu737/santanu737/main/profile-3d-contrib/profile-green-animate.svg" width="98%" />
-
-</div>
-
-> If the 3D graph does not appear immediately, the GitHub Action must be configured in the profile repository. The workflow generates the 3D contribution image automatically.
-
----
 
 ## Current Focus
 
