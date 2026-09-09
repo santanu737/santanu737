@@ -309,17 +309,11 @@ Computer Science and Engineering - Artificial Intelligence and Machine Learning
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santanu737&bg_color=0f172a&color=c4b5fd&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="98%" />
+<img src="https://img.shields.io/badge/Contributions-350%2B-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" />
 
 </div>
-
----
-
 
 
 ## 🌱 Current Focus
