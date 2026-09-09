@@ -354,6 +354,15 @@ improving:
 
 <div align="center">
 
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Contributions-350%2B-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" />
+
+</div>
+
+
+
 ### Let's Connect and Build Something Useful
 
 <a href="mailto:santanu7299@gmail.com">
