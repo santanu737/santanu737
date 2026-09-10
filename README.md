@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=230&section=header&text=Santanu%20Mondal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20in%20Progress&descAlignY=60&descSize=20&descColor=c4b5fd" width="100%"/>
 
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(AI%2FML)+Student;Machine+Learning+%7C+Generative+AI+%7C+Agentic+AI;Building+real-world+AI+and+automation+projects;Learning%2C+building%2C+and+improving+every+day" />
