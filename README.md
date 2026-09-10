@@ -294,6 +294,7 @@ Computer Science and Engineering - Artificial Intelligence and Machine Learning
 
 <div align="center">
 
+
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=santanu737&show_icons=true&hide_border=true&count_private=true&rank_icon=github&title_color=a78bfa&icon_color=8b5cf6&text_color=e2e8f0&bg_color=0f172a" />
 
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanu737&layout=compact&hide_border=true&langs_count=8&title_color=a78bfa&text_color=e2e8f0&bg_color=0f172a" />
