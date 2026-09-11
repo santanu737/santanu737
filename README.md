@@ -4,6 +4,8 @@
 
 <br/>
 
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(AI%2FML)+Student;Machine+Learning+%7C+Generative+AI+%7C+Agentic+AI;Building+real-world+AI+and+automation+projects;Learning%2C+building%2C+and+improving+every+day" />
 
 <br/><br/>
