@@ -173,6 +173,7 @@ I am focused on building useful technology that solves real-world problems.
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <details open>
