@@ -179,6 +179,7 @@ I am focused on building useful technology that solves real-world problems.
 <details open>
 <summary><b>AI Agent for Email Reply Automation</b></summary>
 
+
 <br/>
 
 An AI-powered email automation workflow built with Relay. The system classifies incoming emails, summarizes messages, generates context-aware reply drafts, and includes a human approval step before sending.
