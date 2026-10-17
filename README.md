@@ -264,6 +264,7 @@ An interactive data analysis project for exploring and visualizing COVID-19 data
 
 ## 📜 Certifications
 
+
 - AWS Academy Graduate - Generative AI Foundations
 - NASSCOM Certified - Gen AI Tools
 - CSRBOX and IBM - AI NextGen Certification Program
