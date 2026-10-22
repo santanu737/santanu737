@@ -74,6 +74,7 @@ I am focused on building useful technology that solves real-world problems.
 
 <img src="https://img.shields.io/badge/Club-ADAMAS%20CY--Coders-312e81?style=for-the-badge&labelColor=0f172a" />
 
+
 </td>
 </tr>
 </table>
