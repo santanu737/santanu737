@@ -137,6 +137,7 @@ I am focused on building useful technology that solves real-world problems.
 - Agentic AI
 - Prompt engineering
 - AI-powered applications
+- 
 
 </td>
 <td width="50%" valign="top">
