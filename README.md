@@ -53,7 +53,6 @@ I enjoy transforming ideas into practical systems using:
 - ✨ Generative AI
 - 🔗 Agentic AI
 - 📊 Data Science
-- 
 - ⚙️ Workflow Automation
 
 I am focused on building useful technology that solves real-world problems.
