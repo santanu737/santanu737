@@ -1,9 +1,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=230&section=header&text=Santanu%20Mondal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20in%20Progress&descAlignY=60&descSize=20&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=230&section=header&text=Santanu%20Mondal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Learner%20focused%20on%20Python%2C%20Data%20and%20Real-world%20Projects&descAlignY=60&descSize=20&descColor=c4b5fd" width="100%"/>
 
 <br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(AI%2FML)+Student;AI%2FML+Learner+focused+on+Python+and+Data;Building+real-world+AI+and+automation+projects;Learning%2C+building%2C+and+improving+every+day" />
 
 <br/><br/>
@@ -44,12 +45,12 @@
 
 I am a **B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning** at **Adamas University**.
 
-I enjoy transforming ideas into practical systems using:
+I enjoy turning ideas into practical projects using:
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
-- ✨ Generative AI
-- 🔗 Agentic AI
+- ✨ Generative AI fundamentals
+- 🔗 AI-assisted workflows
 - 📊 Data Science
 - ⚙️ Workflow Automation
 
@@ -86,11 +87,11 @@ I am focused on building useful technology that solves real-world problems.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,github&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Currently%20Learning-Data%20Structures%20%7C%20Machine%20Learning%20%7C%20Python%20for%20AI%2FML%20%7C%20DBMS-0f172a?style=for-the-badge&labelColor=7c3aed" />
+<img src="https://img.shields.io/badge/Currently%20Learning-Data%20Structures%20%7C%20Machine%20Learning%20%7C%20Data%20Analysis%20%7C%20Python-0f172a?style=for-the-badge&labelColor=7c3aed" />
 
 <br/><br/>
 
@@ -109,7 +110,7 @@ I am focused on building useful technology that solves real-world problems.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
 
 ### Web and Development
 
@@ -117,7 +118,7 @@ I am focused on building useful technology that solves real-world problems.
 
 ### Data, Cloud and Tools
 
-<img src="https://skillicons.dev/icons?i=mongodb,netlify,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,netlify&theme=dark" />
 
 </div>
 
