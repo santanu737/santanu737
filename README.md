@@ -274,7 +274,7 @@ An interactive data analysis project for exploring and visualizing COVID-19 data
 
 - AWS Academy Graduate - Generative AI Foundations
 - NASSCOM Certified - Gen AI Tools
-- CSRBOX and IBM - AI NextGen Certification Program
+- CSRBOX and IBM certified - AI NextGen Certification Program
 - IBM SkillsBuild - AI NextGen Certification Program
 - IBM - Granite Models for Software Development
 - IBM SkillsBuild - What is Cybersecurity?
