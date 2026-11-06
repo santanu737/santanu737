@@ -17,6 +17,7 @@
 </a>
 
 <a href="https://github.com/santanu737?tab=followers">
+  
 <img src="https://img.shields.io/github/followers/santanu737?label=FOLLOWERS&style=for-the-badge&color=312e81&labelColor=0f172a" />
 </a>
 
