@@ -30,6 +30,7 @@
 <a href="mailto:santanu7299@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=ef4444" />
 </a>
+
 <a href="https://github.com/santanu737">
 <img src="https://img.shields.io/badge/GitHub-Portfolio-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
