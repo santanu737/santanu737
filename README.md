@@ -52,6 +52,7 @@ I am a **B.Tech Computer Science and Engineering student specializing in Artific
 
 I enjoy turning ideas into practical projects using:
 
+
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - ✨ Generative AI fundamentals
