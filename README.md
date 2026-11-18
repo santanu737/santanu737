@@ -5,7 +5,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=230&section=header&text=Santanu%20Mondal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Learner%20focused%20on%20Python%2C%20Data%20and%20Real-world%20Projects&descAlignY=60&descSize=20&descColor=c4b5fd" width="100%"/>
 
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(AI%2FML)+Student;AI%2FML+Learner+focused+on+Python+and+Data;Building+real-world+AI+and+automation+projects;Learning%2C+building%2C+and+improving+every+day" />
