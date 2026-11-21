@@ -59,6 +59,7 @@ I enjoy turning ideas into practical projects using:
 - 🔗 AI-assisted workflows
 - 📊 Data Science
 - ⚙️ Workflow Automation
+- 🤖 DSA
 
 I am focused on building useful technology that solves real-world problems.
 
