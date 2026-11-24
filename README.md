@@ -218,6 +218,7 @@ An AI-powered email automation workflow built with Relay. The system classifies 
 A responsive web application for creating and sharing customized birthday wishes and posters.
 
 | Category | Details |
+
 | :--- | :--- |
 | **Stack** | HTML5, CSS3, JavaScript |
 | **Live Demo** | [birthday-wishmaker.netlify.app](https://birthday-wishmaker.netlify.app) |
